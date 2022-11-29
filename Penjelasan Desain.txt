@@ -1,0 +1,4 @@
+1.Tabel Dimensi_Employees = gabungan dari tabel employees dan tabel offices dan mengambil beberapa field
+2.Tabel Dimensi_Customers = hanya mengambil beberapa field dari tabel customers
+3.Tabel Dimensi_products = gabungan dari tabel products dan tabel productlines dan mengambil beberapa field
+Fakta_Penjualan = gabungan dari tabel payments, Dimensi_Employees, 4.Tabel Dimensi_Customers, dan Dimensi_Product
